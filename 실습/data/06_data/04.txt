@@ -1,0 +1,12 @@
+For centuries, sundials and water clocks 
+inaccurately told us all we needed to know about time.
+Mechanical clocks started appearing on towers in
+Italy in the 14th century, but their timekeeping 
+ was less impressive than their looks, wandering up to 15 minutes a day. 
+ By the 17th century some geniuses, including Galileo and Pascal,
+  had theorized about, but failed to build, better timepieces. Then, in 
+  1656, Dutch astronomer Christian Huygens constructed the first pendulum clock,
+revolutionizing timekeeping. The precision of Huygens' clock allowed scientists
+ to use it for their physics experiments, and shopkeepers to open and close at
+fixed hours. In 1761, Englishman John Harrison perfected a clock that worked at 
+sea and put accurate time in a navigator's pocket.
